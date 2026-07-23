@@ -17,5 +17,24 @@ Cybersecurity (also known as security) is the practice of ensuring confidentiali
 
 transferable skills VS technical skills.
 
-Personally identifiable information, known as PII, is any information used to infer an individual's identity.
-Sensitive personally identifiable information, known as SPII, is a specific type of PII that falls under stricter handling guidelines and may include social security numbers, medical or financial information, and biometric data, such as facial recognition.
+Cloud security: The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users
+
+Internal threat: A current or former employee, external vendor, or trusted partner who poses a security risk
+
+Network security: The practice of keeping an organization's network infrastructure secure from unauthorized access
+
+Personally identifiable information (PII): Any information used to infer an individual’s identity
+
+Security posture: An organization’s ability to manage its defense of critical assets and data and react to change 
+
+Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+
+Technical skills: Skills that require knowledge of specific tools, procedures, and policies 
+
+Threat: Any circumstance or event that can negatively impact assets
+
+Threat actor: Any person or group who presents a security risk
+
+Transferable skills: Skills from other areas that can apply to different careers 
+
+
