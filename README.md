@@ -14,3 +14,8 @@ Cybersecurity (also known as security) is the practice of ensuring confidentiali
 | **Network Security**   | Protecting a computer network from attacks                 |
 | **Cloud Security**     | Protecting data and applications stored in the cloud       |
 | **Programming**        | Writing code to make computers perform tasks automatically |
+
+transferable skills VS technical skills.
+
+Personally identifiable information, known as PII, is any information used to infer an individual's identity.
+Sensitive personally identifiable information, known as SPII, is a specific type of PII that falls under stricter handling guidelines and may include social security numbers, medical or financial information, and biometric data, such as facial recognition.
